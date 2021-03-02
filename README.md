@@ -15,6 +15,8 @@ Follow the steps below to do the project yourself.
   
 Here is a demo of the project
 
+[Watch Here](https://youtu.be/VCkoSit8LK0)
+
 [![Demo Video](https://img.youtube.com/vi/VCkoSit8LK0/0.jpg)](https://youtu.be/VCkoSit8LK0)
 
 The project is implemented using python. It essentially works by sensing the audio amplitude from wave file and lighting up LEDs proportionate to the audio level.
