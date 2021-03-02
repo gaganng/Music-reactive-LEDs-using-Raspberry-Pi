@@ -15,8 +15,8 @@ Follow the steps below to do the project yourself.
   
 Here is a demo of the project
 
-<iframe width="420" height="315" src="https://youtu.be/VCkoSit8LK0"></iframe>
-  
+[![Demo Video](https://img.youtube.com/vi/VCkoSit8LK0/0.jpg)](https://youtu.be/VCkoSit8LK0)
+
 The project is implemented using python. It essentially works by sensing the audio amplitude from wave file and lighting up LEDs proportionate to the audio level.
   
 Electrical Components required - Raspberry Pi Board, Female to Male Connectors, Bread board, Speaker/Audio Output Device, 12 x LEDs, 12 x 330 Ohm Resistors
